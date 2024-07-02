@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Controlled as CodeMirror } from "@uiw/react-codemirror";
+import CodeMirror from "@uiw/react-codemirror";
 import { javascript } from "@codemirror/lang-javascript";
 import { Button } from "@/components/ui/button";
 import { toast } from "sonner";
